@@ -1238,7 +1238,7 @@ h2 .small,
 .h2 .small,
 h3 .small,
 .h3 .small {
-  font-size: 75%;
+  font-size: 65%;
 }
 h4,
 .h4,
@@ -1374,11 +1374,11 @@ a.text-danger:focus {
 }
 .bg-primary {
   color: #fff;
-  background-color: #337ab7;
+  background-color: #999999;
 }
 a.bg-primary:hover,
 a.bg-primary:focus {
-  background-color: #286090;
+  background-color: #999999;
 }
 .bg-success {
   background-color: #dff0d8;
